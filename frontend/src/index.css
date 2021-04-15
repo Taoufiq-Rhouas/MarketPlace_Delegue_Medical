@@ -252,3 +252,26 @@ img.large{
   border-top-color: #f0800f;
   color: #f0800f;
 }
+
+
+/* Dashboard */
+.containerDashboard{
+  display: flex;
+  width: 100%;
+}
+.rowDashboardLeft{
+  float: left;
+  width: 20%;
+  padding: 20px;
+  background-color: #ecf0f1;
+}
+.rowDashboardRight{
+  float: right;
+  width: 80%;
+  background-color: #c8d6e5;
+}
+.btnLGDashboardLeft{
+  background-color: #20a020;
+  color: white;
+}
+

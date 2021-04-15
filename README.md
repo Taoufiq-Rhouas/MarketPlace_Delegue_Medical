@@ -1,1 +1,0 @@
-# MarketPlace_Delegue_Medical
